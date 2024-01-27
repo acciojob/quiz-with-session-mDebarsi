@@ -1,5 +1,6 @@
 //your JS code here.
-
+const userAnswers = []; // Initialize an array to store user answers
+const questionsElement = document.getElementById("questions");
 // Do not change code below this line
 // This code will just display the questions to the screen
 const questions = [
